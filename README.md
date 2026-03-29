@@ -25,6 +25,11 @@ This repository is intended to:
 - support development and testing of the BioPrinter platform
 - track major configuration revisions over time
 
+## Related Repositories
+
+- CAD Repository: https://github.com/arran2308/BioPrinter-CAD  
+- Printing Parameters: https://github.com/arran2308/BioPrinter-Printing-Parameters
+
 ## Included files
 
 - `printer.cfg` — primary Klipper machine configuration
